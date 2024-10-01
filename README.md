@@ -2,14 +2,14 @@
 
 Meu nome é Ana Beatriz de Andrade
 
--Estou estudando no Alura
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou desenvolvendo na linguagem JavaScript
 - Ultilizo esse espaço para  minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo:
 anabeatrizdeandradecanga@gmail.com
 
-![](https://tenor.com/pt-BR/view/fun-gif-18997831)
+![](https://media1.tenor.com/m/5LT51B0DSIoAAAAC/funny-animals-dog.gif)
 
 
 @anabibi
